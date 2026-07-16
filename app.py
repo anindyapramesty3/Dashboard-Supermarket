@@ -31,8 +31,8 @@ scope = [
 # ======================================================
 # Membaca JSON
 # ======================================================
-creds = Credentials.from_service_account_file(
-    "dashboard-supermarket-502503-3dd3bc32f966.json",
+creds = Credentials.from_service_account_info(
+    st.secrets["gcp_service_account"],
     scopes=scope
 )
 

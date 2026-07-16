@@ -68,7 +68,7 @@ df["Tanggal"] = pd.to_datetime(df["Tanggal"])
 st.title("📊 Dashboard Penjualan Supermarket")
 
 clock_html = """
-<div style="margin-top: 0.4rem; margin-bottom: 1rem; font-size: 1rem; font-weight: 600; color: var(--text-color);">
+<div style="margin-top: 0.4rem; margin-bottom: 1rem; font-size: 1rem; font-weight: 600; color: #6b7280;">
   <div id="live-clock"></div>
 </div>
 <script>

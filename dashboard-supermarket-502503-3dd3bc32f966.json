@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "dashboard-supermarket-502503",
+  "private_key_id": "3dd3bc32f966b5987f459e7098895430cbebd509",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCzLymbR0FuXfYC\nwhlX2qIBrIByzU7gbSK7EdGZ7CrqTu8BCYNy5qrC5xZ5VfXjtK3hZPZ1PrqIHxBv\n19XJ29KTcybVtI4Osr5dabFXIbTWPaFepAHRIwD3oKjd7N6yPimRWIF3wUY3ByB1\nF5iR6F5UhAkAyl+v0hhFvIJQ3+ITiVHgm7QxkvCj2xYpwuVh7Dr7VxjBob7CelZK\n1TIgyzkS9NoX/XDFRgLc/4lQkHO++8zqf1b/pMcp9YE0OnY42ryvXQSOTiEENXca\nc5ihaadIgdzGIlHKWKeaZBUbaMU/Wk13nHg0qJci4alGS5td2iCBSMaYT3SUxCal\nkaOHD593AgMBAAECggEAQOO8ABEyd1sMq9wJ3IB/Ofbz/18tiOXM9Y0S6FiYBAl4\n0VnWIia5wWJ5h5BjP0afz6fF/xir6X7Cb5ZsxDDY1fAWKL890MHXYbHUeLbqq8le\n5oyjYc742zRx4wiUb11GpW21WR6DpIrurKjSZkiN3LKCJiijtWLyylJlqQ8i6qqt\nMv94nO/7xlAEqefLv7OO1+W6UV3kcnSr1m45iLHZkeUlEB53WorRX8M+qsV/uKe5\nsHN5y0zUCIVK/zqeNYdtRHcXBAZZwwnNmpQnOgIK+JvwDJ8XJg+NvsPnhlWi8osn\nEzxwfR3y8BBayk3Qt3vdomCPV/ftUXslaoH+eANQbQKBgQDjtj43YellwWlZnzww\nXOpipXOl5bepcg1WlbZqJ7jXKSPSr9clu2OYcjnNBc7Je/fWhWCOfvYxPE5aNDa8\nJzO9GOIdY3SFjyElKqQkuh0UaFDKPcPgd93pDtKbza0TrY+3wb8QhN4RhbPXvlrb\nIUpgGsyxNXStR24CxTSSJDwlmwKBgQDJcaEeCX+FisTYpWElpW4+L9wv4/FP6yUs\nlrqQkFj18DzOuKM/upuOGQatERiF4gIZHVnTVw5HhJboY9H8XyKhHw8+ZWZ4PaWr\n1Q1EPIqct3wRnX4emW41CUQ1GpJD6D5cG0uFeQuRqCrOJHH2I3oNqTaCNHFp2W/C\nURlYcnEZVQKBgQDJX/Bzf9YtE7c797L9vh3VcSXt71HVurQK/0kbZdd0B8DTYIfu\nqWIxfcqaAmnWCxipELjMK4FDF2bfJM/G4xBBSVEl1j9EocgZGzWf+SsgUgQoZijk\nSHzpzx73hBNslI/FXMTAMhBFBK1/vKqSoUUp6mlcyb5OQx4JuyZ7mynJwwKBgEAt\nOkZGgmD6H9JhhbynoqKfPsfnF8b9RB+beZ56zky0F7tIKYIxIkO4B191tdlZco+r\nwSVKc9snC6jHvGtpp6+rJIEdbvLZuQEwZAScQRDCh/1YrohzGyA8boV4jKajw9I2\nQ+4m7R+fctuv0rq2/LiDc0EyEfvF8Qv4KFn8Q7ntAoGANRD48qLZ3COI5O6Ve05Y\nEoSe6Jnst7v08JmoExd8Ykban0dAbIkNMD2J9l+PpWwkQ/D2KXQgxwZ/0ufpjfEc\nzb5gN43YTZz+PAGw52wvi35uUu7cdG4JUfqsuNG4+Ap3HVoUSHhp4y1AsEPyc9cE\nANwbbxeqWm4qkDSDsOG1vVc=\n-----END PRIVATE KEY-----\n",
+  "client_email": "dashboard-supermarket@dashboard-supermarket-502503.iam.gserviceaccount.com",
+  "client_id": "105861692781565872294",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dashboard-supermarket%40dashboard-supermarket-502503.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
